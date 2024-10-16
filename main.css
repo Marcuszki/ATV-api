@@ -1,0 +1,20 @@
+.fundo{
+    background-image: url(img/poke.jpg);
+    background-size: cover;
+}   
+.centro{
+    display: flex; /* Ativa o Flexbox */
+    flex-direction: column; /* Organiza os elementos verticalmente */
+    justify-content: center; /* Centraliza verticalmente */
+    align-items: center; /* Centraliza horizontalmente */
+    height: 40vh; /* Faz com que a div ocupe 100% da altura da tela */
+    text-align: center; /* Centraliza o texto */
+}
+.c{
+    display: flex; /* Ativa o Flexbox */
+    flex-direction: column; /* Organiza os elementos verticalmente */
+    justify-content: center; /* Centraliza verticalmente */
+    align-items: center; /* Centraliza horizontalmente */
+
+    text-align: center; /* Centraliza o texto */
+}
